@@ -4,7 +4,10 @@
   </a>
 </p>
 <h1 align="center">Injectify</h1>
-<h3 align="center">Massive SQL Injection Scanner</h3>  
+<h3 align="center">Massive SQL Injection Scanner</h3>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" >
+</div>
 
 **Features**  
 1. Multiple domain scanning with SQL injection dork by Google

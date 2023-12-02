@@ -24,3 +24,7 @@
 ```bash
 3. python main.py
 ```
+
+## Disclaimer ⚠️
+
+This tool is meant for educational purposes only. Unauthorized access to someone else's website is illegal and unethical. Use this script responsibly and only on websites you own or have explicit permission to test.
